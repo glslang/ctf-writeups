@@ -220,11 +220,10 @@
         },
         "paramiko": {
             "hashes": [
-                "sha256:443f4da23ec24e9a9c0ea54017829c282abdda1d57110bf229360775ccd27a31",
-                "sha256:f6cbd3e1204abfdbcd40b3ecbc9d32f04027cd3080fe666245e21e7540ccfc1b"
+                "sha256:ac6593479f2b47a9422eca076b22cff9f795495e6733a64723efc75dd8c92101",
+                "sha256:ddb1977853aef82804b35d72a0e597b244fa326c404c350bd00c5b01dbfee71a"
             ],
-            "index": "pypi",
-            "version": "==2.10.1"
+            "version": "==2.10.3"
         },
         "pip": {
             "hashes": [
@@ -274,11 +273,11 @@
         },
         "pwntools": {
             "hashes": [
-                "sha256:877b97f4f80357757fb418f50a9932c881426477d5634446264082b49bdca5c8",
-                "sha256:f3d2801dcb3e399173ca88bca87468904d4fccdbd035145eec7ff0dd0ac55cb5"
+                "sha256:4afb6b31eed962fdeb004c922463f6fafa595e73f1a24ea33ef524706afeb32c",
+                "sha256:c46188e713c47617b2dbf3e32d1867f948d35d82fddf9a9d2294a33f47484a8a"
             ],
             "index": "pypi",
-            "version": "==4.2.0b0"
+            "version": "==4.3.1"
         },
         "pycparser": {
             "hashes": [
@@ -383,16 +382,13 @@
         },
         "unicorn": {
             "hashes": [
-                "sha256:0bb8b71f6bfaf6a0dafa06838a780735aec9b619aabbece83f87c4f7c139885e",
-                "sha256:0e3d8f67a11d169296b777e19b9028a5f448f5591cb6af21319cd37845e71460",
-                "sha256:6d04871a46c5e1512a71e3f9e31658d55adca5b088d144b68be8dbf3d34a58d7",
-                "sha256:858d495fc6cbd9d75bf5be1e5bf25d7ac6831158c4b28f5b4a2966afe41b8f24",
-                "sha256:acc679356a6f8734014aba08da31a9681a3bd4c0a8881bd087eccad32daf88ea",
-                "sha256:ba80e1a1eca1ea0c44d34af4519310b7a21e8a9c736142a329af594ba251f236",
-                "sha256:d2bdfed4295400611fa18a44e76b9a3e2e78df722a6c3f1a39203571d193ddf1",
-                "sha256:ee84e26515dade6367b732e3b276e87921e8e1d503dab18e16aaa1f0f9c8a229"
+                "sha256:5554ff8b786600c9f429f46057736c1eb1bce69dcc28337b4615b8ee64b96d8b",
+                "sha256:7740efe628e12503e3f5ccbbe006c425b65a56874d6cbab08b14d126abec7ef3",
+                "sha256:ab537fc29d00c11f1cf3c146c74184c976494d4530f59cc38816af6540d6b6ae",
+                "sha256:e008dc89e07d5d6263cdb1ae4f72acd84ff6a3f3d785addc981646fb2c950214",
+                "sha256:e331ba2adf6e7defc974c5a7f58857367b417e23757784bc1bb49f1bf7608233"
             ],
-            "version": "==2.0.0rc6"
+            "version": "==1.0.2rc3"
         },
         "urllib3": {
             "hashes": [
