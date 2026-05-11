@@ -457,7 +457,7 @@
             ],
             "index": "pypi",
             "markers": "python_version >= '3.9'",
-            "version": "==26.0"
+            "version": "==26.1"
         },
         "psutil": {
             "hashes": [
